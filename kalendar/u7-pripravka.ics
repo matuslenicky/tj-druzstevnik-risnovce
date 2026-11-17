@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TJ Družstevník Rišňovce//Zapasy//SK
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TJ Družstevník Rišňovce – Prípravka U7
+X-WR-TIMEZONE:Europe/Bratislava
+BEGIN:VTIMEZONE
+TZID:Europe/Bratislava
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:zapas-6aa2567b1a65ab42b04aa9ff@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260912T090000
+DURATION:PT2H
+SUMMARY:U7: TJ Družstevník Rišňovce U7 – FC Cabaj-Čápor 6:3
+DESCRIPTION:III. liga prípraviek U7\, 1. turnaj\nDomáci zápas
+LOCATION:Štadión TJ Rišňovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6aa256b01a65ab42b04b120f@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260912T090000
+DURATION:PT2H
+SUMMARY:U7: TJ Družstevník Rišňovce U7 – FK Mojmírovce 5:3
+DESCRIPTION:III. liga prípraviek U7\, 1. turnaj\nDomáci zápas
+LOCATION:Štadión TJ Rišňovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6aa256e91a65ab42b04b81d6@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260912T090000
+DURATION:PT2H
+SUMMARY:U7: TJ Družstevník Rišňovce U7 – FC Výčapy-Opatovce 6:0
+DESCRIPTION:III. liga prípraviek U7\, 1. turnaj\nDomáci zápas
+LOCATION:Štadión TJ Rišňovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ab4e09d1a65ab42b0be5649@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260926T090000
+DURATION:PT2H
+SUMMARY:U7: TJ Družstevník Rišňovce U7 – MFK Pohranice 0:10
+DESCRIPTION:III. liga prípraviek U7\, 2. turnaj\nDomáci zápas
+LOCATION:Výčapy - Opatovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ab4e0d71a65ab42b0beaf86@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260926T090000
+DURATION:PT2H
+SUMMARY:U7: FC Výčapy-Opatovce – TJ Družstevník Rišňovce U7 0:4
+DESCRIPTION:III. liga prípraviek U7\, 2. turnaj\nZápas vonku
+LOCATION:Výčapy - Opatovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ab4e1011a65ab42b0bef9f2@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260926T090000
+DURATION:PT2H
+SUMMARY:U7: TJ Družstevník Rišňovce U7 – TJ Štart Nitrianske Hrnči
+ arovce 3:5
+DESCRIPTION:III. liga prípraviek U7\, 2. turnaj\nDomáci zápas
+LOCATION:Výčapy - Opatovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ac73c470cf502fda70055ad@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261010T090000
+DURATION:PT2H
+SUMMARY:U7: TJ Družstevník Rišňovce U7 – TJ AC NOVAN Nová Ves nad 
+ Žitavou 1:2
+DESCRIPTION:III. liga prípraviek U7\, 3. turnaj\nDomáci zápas
+LOCATION:Futbalový štadión MFK Pohranice
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ac73c6f0cf502fda7009333@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261010T090000
+DURATION:PT2H
+SUMMARY:U7: MFK Pohranice – TJ Družstevník Rišňovce U7 7:0
+DESCRIPTION:III. liga prípraviek U7\, 3. turnaj\nZápas vonku
+LOCATION:Futbalový štadión MFK Pohranice
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ac73c980cf502fda700d4ed@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261010T090000
+DURATION:PT2H
+SUMMARY:U7: TJ Družstevník Rišňovce U7 – FC Cabaj-Čápor 3:2
+DESCRIPTION:III. liga prípraviek U7\, 3. turnaj\nDomáci zápas
+LOCATION:Futbalový štadión MFK Pohranice
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TJ Družstevník Rišňovce//Zapasy//SK
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TJ Družstevník Rišňovce – Prípravka U9
+X-WR-TIMEZONE:Europe/Bratislava
+BEGIN:VTIMEZONE
+TZID:Europe/Bratislava
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:zapas-6a9935423edec7237c7dbced@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260905T090000
+DURATION:PT2H
+SUMMARY:U9: TJ Nové Sady – TJ Družstevník Rišňovce U9 2:1
+DESCRIPTION:III. liga prípraviek U9\, 1. turnaj\nZápas vonku
+LOCATION:Štadión Výčapy Opatovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a9935423edec7237c7dbddf@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260905T090000
+DURATION:PT2H
+SUMMARY:U9: ŠK Nitra-Dolné Krškany – TJ Družstevník Rišňovce U9 5
+ :2
+DESCRIPTION:III. liga prípraviek U9\, 1. turnaj\nZápas vonku
+LOCATION:Štadión Výčapy Opatovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a9935433edec7237c7dc12e@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260905T090000
+DURATION:PT2H
+SUMMARY:U9: TJ Družstevník Rišňovce U9 – TJ Družstevník Šurianky 
+ 8:2
+DESCRIPTION:III. liga prípraviek U9\, 1. turnaj\nDomáci zápas
+LOCATION:Štadión Výčapy Opatovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a9935473edec7237c7dcc39@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260905T090000
+DURATION:PT2H
+SUMMARY:U9: FC Výčapy-Opatovce – TJ Družstevník Rišňovce U9 1:2
+DESCRIPTION:III. liga prípraviek U9\, 1. turnaj\nZápas vonku
+LOCATION:Štadión Výčapy Opatovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6aabaa481a65ab42b080dba9@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260919T090000
+DURATION:PT2H
+SUMMARY:U9: TJ Štart Nitrianske Hrnčiarovce – TJ Družstevník Rišňo
+ vce U9 2:1
+DESCRIPTION:III. liga prípraviek U9\, 2. turnaj\nZápas vonku
+LOCATION:Športový klub MAGNUS
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6aabac1d1a65ab42b083edf9@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260919T090000
+DURATION:PT2H
+SUMMARY:U9: TJ Družstevník Rišňovce U9 – OFK Čakajovce 1:2
+DESCRIPTION:III. liga prípraviek U9\, 2. turnaj\nDomáci zápas
+LOCATION:Športový klub MAGNUS
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6aabad151a65ab42b085bbcc@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260919T090000
+DURATION:PT2H
+SUMMARY:U9: ŠK Magnus (futbal) – TJ Družstevník Rišňovce U9 0:3
+DESCRIPTION:III. liga prípraviek U9\, 2. turnaj\nZápas vonku
+LOCATION:Športový klub MAGNUS
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6aabad971a65ab42b086acd9@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20260919T090000
+DURATION:PT2H
+SUMMARY:U9: TJ Družstevník Rišňovce U9 – ŠK Veľké Zálužie 0:5
+DESCRIPTION:III. liga prípraviek U9\, 2. turnaj\nDomáci zápas
+LOCATION:Športový klub MAGNUS
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6abe0c6eead18e4ef02698bc@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261003T090000
+DURATION:PT2H
+SUMMARY:U9: FC Jelenec – TJ Družstevník Rišňovce U9 2:0
+DESCRIPTION:III. liga prípraviek U9\, 3. turnaj\nZápas vonku
+LOCATION:FC Jelenec
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6abe0d0fead18e4ef027b17b@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261003T090000
+DURATION:PT2H
+SUMMARY:U9: TJ Družstevník Rišňovce U9 – OFK Golianovo 0:2
+DESCRIPTION:III. liga prípraviek U9\, 3. turnaj\nDomáci zápas
+LOCATION:FC Jelenec
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6abe0dd2ead18e4ef028d1aa@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261003T090000
+DURATION:PT2H
+SUMMARY:U9: FK Vlčany – TJ Družstevník Rišňovce U9 2:0
+DESCRIPTION:III. liga prípraviek U9\, 3. turnaj\nZápas vonku
+LOCATION:FC Jelenec
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ad0a9550cf502fda782a318@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261017T090000
+DURATION:PT2H
+SUMMARY:U9: TJ Družstevník Rišňovce U9 – FK Nitra B 0:2
+DESCRIPTION:III. liga prípraviek U9\, 4. turnaj\nDomáci zápas
+LOCATION:Štadión TJ Rišňovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ad0a9670cf502fda782bf44@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261017T090000
+DURATION:PT2H
+SUMMARY:U9: TJ Družstevník Rišňovce U9 – FK Janíkovce 1:2
+DESCRIPTION:III. liga prípraviek U9\, 4. turnaj\nDomáci zápas
+LOCATION:Štadión TJ Rišňovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ad0a9740cf502fda782d55a@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261017T090000
+DURATION:PT2H
+SUMMARY:U9: TJ Družstevník Rišňovce U9 – FK Slovan Duslo Šaľa B 4:
+ 2
+DESCRIPTION:III. liga prípraviek U9\, 4. turnaj\nDomáci zápas
+LOCATION:Štadión TJ Rišňovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ad90ac83d2c18f185f695bd@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261024T090000
+DURATION:PT2H
+SUMMARY:U9: ŠK Veľké Zálužie – TJ Družstevník Rišňovce U9 2:0
+DESCRIPTION:III. liga prípraviek U9\, 5. turnaj\nZápas vonku
+LOCATION:ŠK Dolné Krškany
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ad90ac83d2c18f185f6972e@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261024T090000
+DURATION:PT2H
+SUMMARY:U9: TJ Družstevník Rišňovce U9 – FK DYNAMO Trnovec nad Váho
+ m 14:0
+DESCRIPTION:III. liga prípraviek U9\, 5. turnaj\nDomáci zápas
+LOCATION:ŠK Dolné Krškany
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ad90ad93d2c18f185f6c343@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261024T090000
+DURATION:PT2H
+SUMMARY:U9: ŠK Nitra-Dolné Krškany – TJ Družstevník Rišňovce U9 5
+ :1
+DESCRIPTION:III. liga prípraviek U9\, 5. turnaj\nZápas vonku
+LOCATION:ŠK Dolné Krškany
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6ad90add3d2c18f185f6ce22@tj-druzstevnik-risnovce.sportnet
+DTSTAMP:20261117T231736Z
+DTSTART;TZID=Europe/Bratislava:20261024T090000
+DURATION:PT2H
+SUMMARY:U9: TJ Družstevník Rišňovce U9 – FK Janíkovce
+DESCRIPTION:III. liga prípraviek U9\, 5. turnaj\nDomáci zápas
+END:VEVENT
+END:VCALENDAR
