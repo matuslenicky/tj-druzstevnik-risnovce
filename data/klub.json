@@ -1,0 +1,100 @@
+{
+  "_zdroj": "Ručne zapísané len zo zverejnených zdrojov (uvedené pri každej časti). Nič nedopĺňať odhadom – chýbajúce údaje dodá klub.",
+  "nazov": "TJ Družstevník Rišňovce",
+  "kratky": "Rišňovce",
+  "pravnyNazov": "TJ Družstevník Rišňovce",
+  "_pravnyNazov": "Sportnet",
+  "mesto": "Rišňovce",
+  "zalozenie": 1930,
+  "_zalozenie": "web obce (TJ Družstevník): história futbalu v Rišňovciach sa oficiálne datuje od roku 1930; rok aj na erbe klubu",
+  "farby": "červená, biela a žltá",
+  "_farby": "erb klubu (Sportnet) a farby obce (Symboly)",
+  "erbAlt": "Erb TJ Rišňovce: červený štít s vinohradníckym nožíkom, lemešom s rokom 1930, strapcom hrozna a klasom, pod ním lopta",
+  "adresa": ["Pri ihrisku", "951 21 Rišňovce"],
+  "_adresa": "Sportnet (ulica Pri ihrisku, PSČ 951 21)",
+  "kontakt": { "email": "roman.grznar@gmail.com" },
+  "_kontakt": "Sportnet (kontakt klubu)",
+  "sportnetUrl": "https://sportnet.sme.sk/futbalnet/k/tj-druzstevnik-risnovce/",
+  "obecKlub": "https://www.risnovce.sk/tj-druzstevnik.html",
+  "vybor": {
+    "_zdroj": "web obce (TJ Družstevník)",
+    "prezident": "Peter Macháč ml.",
+    "clenovia": ["Jozef Malčák", "Roman Grznár", "Juraj Kemláge", "Tomáš Sabo", "Vladimír Kroppel", "Patrik Fiala"]
+  },
+  "stadion": {
+    "_zdroj": "web obce (TJ Družstevník); Sportnet (názov, poloha)",
+    "nazov": "Štadión TJ Rišňovce",
+    "geo": [48.3668547, 17.8920267],
+    "fakty": [
+      { "k": "1998", "t": "Hraciu plochu kompletne zatrávnili za približne 50 tisíc Sk. Jesenné zápasy sa pre rekonštrukciu hrali v Rumanovej." },
+      { "k": "2008", "t": "Hracia plocha bola obnovená, áčko vtedy hrávalo domáce zápasy v Kľačanoch." },
+      { "k": "2009 – 2010", "t": "Začala sa stavať ohrada areálu, pribudli nové dresy a lopty." },
+      { "k": "Od 2012", "t": "Lapače za bránami, oplotenie od obce, umelá závlaha, vedľajšie ihrisko a jeho umelé osvetlenie." }
+    ]
+  },
+  "kronika": {
+    "_zdroj": "web obce (TJ Družstevník): história futbalu v Rišňovciach",
+    "zoznam": [
+      { "rok": "1923", "text": "Podľa najstarších pamätníkov priniesol Melicher Káčer do obce prvú koženú futbalovú loptu. Pri zrode futbalu boli aj Alfonz Vlček, Michal Málik, Gejza Šindler, Anton Görög st., Milan Strhan, Jozef Vaculík a učiteľ Bernard Válek." },
+      { "rok": "1930", "text": "Od tohto roku sa história futbalu v obci oficiálne datuje, hrajú sa prvé priateľské zápasy." },
+      { "rok": "1949", "text": "Jeden z najhodnotnejších turnajov v obci: ŠK Alekšince, ŠK Ujlak (Veľké Zálužie), ŠK Dolné Krškany a ŠK Rišňovce." },
+      { "rok": "1963", "text": "V septembri TJ Družstevník Rišňovce hrá s exotickou jedenástkou hráčov z Tuniska, Mali, Maroka, Kambodže a Konga." },
+      { "rok": "1969", "text": "Veľký sviatok: zápas s Interom Bratislava v kompletnej prvoligovej zostave." },
+      { "rok": "1980", "text": "K 50. výročiu futbalu v obci opäť priateľský zápas s ligovým Interom Bratislava." },
+      { "rok": "1983 – 1986", "text": "Najväčší úspech starších čias, futbalisti sa prebojovali do I. triedy okresu." },
+      { "rok": "2000", "text": "Postup do novovytvorenej oblastnej súťaže Majstrovstvá oblasti Nitra – Šaľa, v tej sezóne aj exhibícia s áčkom Spartaka Trnava." },
+      { "rok": "2010", "text": "80 rokov futbalu oslávili 28. augusta exhibíciou áčka so starými pánmi, tajomník František Talian dostal pamätný dres." },
+      { "rok": "2016/17", "text": "Áčko po tretí raz v histórii postúpilo medzi elitu okresu." },
+      { "rok": "2024/25", "text": "Víťaz VII. ligy ObFZ Nitra s 22 výhrami a postup do krajskej VI. ligy Stred." }
+    ]
+  },
+  "tradicie": {
+    "_zdroj": "web obce (TJ Družstevník)",
+    "text": "Od začiatku futbalu sa v obci hrávali zápasy slobodní – ženatí a neskôr aj tlstí – chudí. Od ročníka 2013/14 organizujú funkcionári Memoriál J. Watteru, Ples športovcov a vatru k výročiu SNP."
+  },
+  "rocniky": {
+    "_zdroj": "Sportnet – konečné tabuľky áčka (dospelí), stiahnuté 17. 11. 2026",
+    "zoznam": [
+      { "rok": "2015/16", "liga": "VII. liga ObFZ Nitra, skupina A", "poz": 10, "z": 14, "skore": "47:43", "body": 36 },
+      { "rok": "2016/17", "liga": "VII. liga ObFZ Nitra, skupina A", "poz": 1, "z": 14, "skore": "83:29", "body": 66, "titul": true, "pozn": "21 výhier, 3 remízy, 2 prehry" },
+      { "rok": "2017/18", "liga": "VI. liga ObFZ Nitra", "poz": 13, "z": 16, "skore": "50:69", "body": 30 },
+      { "rok": "2018/19", "liga": "VI. liga ObFZ Nitra", "poz": 8, "z": 16, "skore": "46:50", "body": 40 },
+      { "rok": "2019/20", "liga": "VI. liga ObFZ Nitra", "poz": 8, "z": 16, "skore": "36:35", "body": 22, "pozn": "nedohraná sezóna (pandémia)" },
+      { "rok": "2020/21", "liga": "VI. liga ObFZ Nitra", "poz": 4, "z": 16, "skore": "19:9", "body": 21, "pozn": "nedohraná sezóna (pandémia)" },
+      { "rok": "2021/22", "liga": "V. liga Stred", "poz": 12, "z": 16, "skore": "45:62", "body": 28 },
+      { "rok": "2022/23", "liga": "VII. liga ObFZ Nitra", "poz": 7, "z": 16, "skore": "62:56", "body": 44 },
+      { "rok": "2023/24", "liga": "VII. liga ObFZ Nitra", "poz": 3, "z": 16, "skore": "77:37", "body": 64 },
+      { "rok": "2024/25", "liga": "VII. liga ObFZ Nitra", "poz": 1, "z": 16, "skore": "68:26", "body": 71, "titul": true, "pozn": "22 výhier, 5 remíz, 3 prehry" },
+      { "rok": "2025/26", "liga": "VI. liga Stred", "poz": 12, "z": 14, "skore": "32:66", "body": 26 }
+    ]
+  },
+  "uspechy": [
+    { "rok": "2024/25", "text": "víťaz VII. ligy ObFZ Nitra" },
+    { "rok": "2016/17", "text": "víťaz VII. ligy ObFZ Nitra, skupina A" },
+    { "rok": "1983 – 1986", "text": "I. trieda okresu" }
+  ],
+  "obec": {
+    "_zdroj": "web obce Rišňovce (História, Symboly)",
+    "fakty": [
+      { "k": "1272", "t": "Prvá písomná zmienka 30. apríla 1272, keď kráľ Štefan daroval synom Euronga usadlosti, medzi nimi Rechen, dnešné Dolné Rišňovce." },
+      { "k": "Kutuzov", "t": "V renesančnom kaštieli v Dolných Rišňovciach prenocoval 18. – 19. decembra 1805 maršal Kutuzov po bitke pri Slavkove. Dnes je v ňom jeho múzeum." },
+      { "k": "Brakteáty", "t": "V lete 1941 našli pri orbe v časti Tizardov jednostranne razené mince, takzvané brakteáty." },
+      { "k": "1926", "t": "Dolné a Horné Rišňovce sa 9. septembra 1926 zlúčili do jednej obce." },
+      { "k": "Erb", "t": "V červenom štíte strieborný vinohradnícky nožík na zlatej rukoväti a obrátený lemeš, dolu zlatý strapec hrozna a klas. Lemeš s rokom 1930 nesie aj erb klubu." }
+    ]
+  },
+  "sutaze": {
+    "_pozn": "čitateľné názvy súťaží namiesto skratiek a názvov so sponzormi zo Sportnetu",
+    "Slovnaft Cup": "Slovnaft Cup",
+    "VI. liga Stred  Macron | yoursport  ZsFZ": "VI. liga Stred",
+    "IV. liga Macron| yoursport MŽ U13 ObFZ Nitra": "IV. liga mladších žiakov U13",
+    "III. liga Macron| yoursport Prípravka U11 ObFZ Nitra": "III. liga prípraviek U11",
+    "III. liga Macron| yoursport Prípravka U09 ObFZ Nitra": "III. liga prípraviek U9",
+    "III. liga Macron| yoursport Prípravka U07 ObFZ Nitra": "III. liga prípraviek U7"
+  },
+  "nazvy": {
+    "_pozn": "čitateľné názvy súperov namiesto úradných názvov a veľkých písmen zo Sportnetu",
+    "\"Združenie FC Výčapy - Opatovce\"": "FC Výčapy-Opatovce",
+    "OBECNÝ ŠPORTOVÝ KLUB KOLÍŇANY": "OŠK Kolíňany"
+  }
+}

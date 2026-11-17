@@ -1,0 +1,108 @@
+/* TJ Družstevník Rišňovce – „Prúd okolo dneška“. Krémový papier, tmavohnedá tlač, červená z erbu len ako akcent. */
+:root {
+  --bg: #faf6ef; --paper: #fffdf9; --ink: #24190f; --muted: #5f5448; --line: #e3d9c9;
+  --red: #a3201a; --red-l: #f6e6e2; --focus: #a3201a; --link: #7a1d17;
+  --disp: 'Rokkitt', Rockwell, Georgia, serif;
+  --text: 'Petrona', Georgia, 'Times New Roman', serif;
+  --text-size: 1.0938rem; --lh: 1.6;
+  --menu-bg: #faf6ef; --menu-ink: #24190f;
+}
+.h1, .h2, .h3, .brand-n, .teams-n, .stat b, .mc-mid, .today span { font-family: var(--disp); font-weight: 700; letter-spacing: -.005em; }
+.h1 { font-size: clamp(2.1rem, 5.6vw, 3.4rem); line-height: 1.05; }
+.h2 { font-size: clamp(1.6rem, 3.6vw, 2.2rem); line-height: 1.12; margin-bottom: 14px; }
+.h2--gap { margin-top: 32px; }
+.h3 { font-size: 1.3rem; margin-bottom: 10px; }
+.h4 { font-weight: 600; }
+.kicker, .stream-k { font: 600 .8125rem/1.4 var(--text); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.more { margin-top: 10px; font-weight: 600; color: var(--link); }
+.more .i { width: 15px; height: 15px; }
+.btn { background: var(--ink); color: var(--paper); font-weight: 600; border-radius: 2px; }
+.btn:hover { background: var(--red); }
+.btn--line { background: transparent; color: var(--ink); border-color: var(--ink); }
+.btn--line:hover { background: var(--ink); color: var(--paper); }
+.sec--paper { background: var(--paper); border-top: 1px solid var(--line); }
+
+/* hlavička */
+.hdr { background: var(--bg); border-bottom: 1px solid var(--line); }
+.brand img { height: 46px; width: auto; }
+.brand-n { font-size: 1.3rem; }
+.brand-s { font-size: .875rem; font-style: italic; color: var(--muted); }
+.nav a { padding: 0 12px; color: var(--ink); font-size: 1.0313rem; }
+.nav a[aria-current="page"] { color: var(--red); text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 7px; }
+.menu-btn { background: var(--ink); color: var(--paper); border: 0; border-radius: 2px; }
+@media (max-width: 519.98px) { .brand-n { font-size: 1.1rem; white-space: normal; line-height: 1.1; } .brand-s { display: none; } }
+.menu-k { font-family: var(--disp); font-weight: 700; }
+.menu-nav a { font: 700 2.1rem/1.1 var(--disp); border-bottom: 1px solid var(--line); }
+.menu-nav a[aria-current="page"] { color: var(--red); }
+
+/* úvod */
+.intro { border-bottom: 1px solid var(--line); }
+.intro-in { display: flex; align-items: center; gap: 22px; padding-top: 30px; padding-bottom: 30px; }
+.intro img { height: 96px; width: auto; flex: none; }
+.intro-p { margin-top: 8px; max-width: 60ch; color: var(--muted); font-size: 1.125rem; }
+@media (max-width: 519.98px) { .intro-in { align-items: flex-start; } .intro img { height: 72px; } }
+
+/* prúd zápasov okolo dneška */
+.flow { display: grid; gap: 40px; }
+.flow > * { min-width: 0; }
+@media (min-width: 1000px) { .flow { grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 56px; align-items: start; } .flow-side { position: sticky; top: 24px; } }
+.stream { position: relative; }
+.stream .fxl { position: relative; padding-left: 26px; }
+.stream .fxl::before { content: ''; position: absolute; left: 6px; top: 0; bottom: 0; width: 2px; background: var(--line); }
+.stream .fx { position: relative; }
+.stream .fx::before { content: ''; position: absolute; left: -26px; top: 50%; width: 14px; height: 14px; margin-top: -7px; border-radius: 50%; background: var(--paper); box-shadow: inset 0 0 0 2px var(--muted); }
+.stream .fx--res::before { background: var(--ink); box-shadow: none; }
+.stream .fx--w::before { background: var(--red); }
+.stream-k { margin: 14px 0 4px; }
+.today { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin: 14px 0 6px; padding: 12px 0; border-top: 2px solid var(--ink); border-bottom: 2px solid var(--ink); font-size: .9375rem; color: var(--muted); }
+.today span { font-size: 1.35rem; color: var(--red); }
+.club { max-width: 760px; }
+
+/* zápasy a tabuľka */
+.fx { border-bottom: 1px solid var(--line); }
+.fx-a { grid-template-columns: 56px minmax(0, 1fr) auto; min-height: 58px; padding: 6px 0; }
+.fx-d { font: 700 1rem/1.1 var(--disp); }
+.fx-dd { font: italic 400 .8125rem/1.3 var(--text); color: var(--muted); }
+.fx-on { font-weight: 600; line-height: 1.25; }
+.fx-k { font-size: .8125rem; }
+.fx-t { font: 700 1.1rem/1 var(--disp); }
+.sc { font: 700 1.1rem/1 var(--disp); min-width: 50px; padding: 4px 8px; border-radius: 2px; }
+.sc--w { background: var(--red); color: #fff; }
+.sc--d { box-shadow: inset 0 0 0 1px var(--ink); }
+.sc--l { color: var(--muted); }
+.sc--n { color: var(--muted); font: 400 .875rem/1.2 var(--text); }
+.month-h { font: 700 1.25rem/1.2 var(--disp); }
+.form li { border-radius: 2px; font: 700 .875rem/1 var(--disp); box-shadow: inset 0 0 0 1px var(--line); }
+.form--w { background: var(--red); color: #fff; box-shadow: none; }
+.tbl { font-size: .9375rem; background: var(--paper); }
+.tbl thead th { font-size: .75rem; letter-spacing: .1em; text-transform: uppercase; font-weight: 600; color: var(--muted); border-bottom: 2px solid var(--ink); }
+.tbl tbody tr { border-bottom: 1px solid var(--line); }
+.tbl .pos { font-family: var(--disp); font-weight: 700; color: var(--muted); }
+.tbl tr.our { background: var(--red-l); }
+.tbl tr.our th, .tbl tr.our td, .tbl tr.our .pos { font-weight: 700; color: var(--red); }
+.toc a { border-radius: 2px; box-shadow: inset 0 0 0 1px var(--ink); color: var(--ink); }
+.kv dt { font-family: var(--disp); font-weight: 700; color: var(--red); }
+
+/* podstránky */
+.phead { padding: 32px 0 24px; border-bottom: 1px solid var(--line); }
+.mc { padding: 22px 20px 16px; background: var(--paper); border: 1px solid var(--line); border-radius: 2px; }
+.mc-label { font-weight: 600; color: var(--red); }
+.mc-mid { font-size: 3rem; }
+.mc-mid--w { color: var(--red); }
+.chip { border: 0; border-radius: 2px; background: var(--paper); color: var(--ink); box-shadow: inset 0 0 0 1px var(--line); }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); box-shadow: none; }
+.teams a { border-bottom: 1px solid var(--line); }
+.teams-n { font-size: 1.7rem; color: var(--red); }
+.teams-s { font-weight: 600; }
+.join { background: var(--paper); border: 1px solid var(--line); }
+.stat b { font-size: 2.4rem; }
+.contact-mail { font: 700 clamp(1.4rem, 4.4vw, 2.2rem)/1.2 var(--disp); }
+
+/* päta */
+.ftr { background: var(--ink); color: #e3d9c9; }
+.ftr a { color: #fff; }
+.ftr-name { font: 700 1.25rem/1.2 var(--disp); color: #fff; }
+.ftr :focus-visible { outline-color: #f2b8b1; }
+.ftr-src { color: #c9bca9; }
+.ftr-bar { border-top: 1px solid #4a3a2a; color: #c9bca9; }
+.demo { background: var(--red); color: #fff; }
