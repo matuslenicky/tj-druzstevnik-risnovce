@@ -2,7 +2,7 @@
  "source": "Sportnet / Futbalnet",
  "appSpace": "tj-druzstevnik-risnovce.futbalnet.sk",
  "season": "2026/2027",
- "updated": "2026-11-17T22:09:08.643Z",
+ "updated": "2026-11-17T23:17:36.354Z",
  "teams": [
   {
    "slug": "a-muzstvo",
@@ -827,7 +827,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/1/zapas/929302",
    "half": "0:2",
    "referee": "Ivan Šimonek",
-   "audience": 121,
    "lineups": {
     "our": {
      "start": [
@@ -1113,6 +1112,7 @@
      }
     ]
    },
+   "audience": 121,
    "detail": true
   },
   {
@@ -1184,7 +1184,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/952189",
    "half": "1:2",
    "referee": "Ján Vido",
-   "audience": 117,
    "lineups": {
     "our": {
      "start": [
@@ -1491,6 +1490,7 @@
      }
     ]
    },
+   "audience": 117,
    "detail": true
   },
   {
@@ -1574,7 +1574,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/952202",
    "half": "0:5",
    "referee": "Marian Barczi",
-   "audience": 100,
    "lineups": {
     "our": {
      "start": [
@@ -1840,6 +1839,7 @@
      }
     ]
    },
+   "audience": 100,
    "detail": true
   },
   {
@@ -1935,7 +1935,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/952204",
    "half": "5:0",
    "referee": "Jozef Piaček",
-   "audience": 150,
    "lineups": {
     "our": {
      "start": [
@@ -2193,6 +2192,7 @@
      }
     ]
    },
+   "audience": 150,
    "detail": true
   },
   {
@@ -2276,7 +2276,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/952215",
    "half": "1:5",
    "referee": "René Ihász",
-   "audience": 150,
    "lineups": {
     "our": {
      "start": [
@@ -2561,6 +2560,7 @@
      }
     ]
    },
+   "audience": 150,
    "detail": true
   },
   {
@@ -3104,7 +3104,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/952219",
    "half": "4:0",
    "referee": "Filip Santa",
-   "audience": 226,
    "lineups": {
     "our": {
      "start": [
@@ -3363,6 +3362,7 @@
      }
     ]
    },
+   "audience": 226,
    "detail": true
   },
   {
@@ -3659,7 +3659,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/952228",
    "half": "0:1",
    "referee": "Miroslav Šefčík",
-   "audience": 150,
    "lineups": {
     "our": {
      "start": [
@@ -3918,6 +3917,7 @@
      }
     ]
    },
+   "audience": 150,
    "detail": true
   },
   {
@@ -4768,7 +4768,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/952241",
    "half": "0:1",
    "referee": "Ján Rečka",
-   "audience": 125,
    "lineups": {
     "our": {
      "start": [
@@ -5060,6 +5059,7 @@
      }
     ]
    },
+   "audience": 125,
    "detail": true
   },
   {
@@ -5584,7 +5584,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/952249",
    "half": "2:0",
    "referee": "Kristián Frajka",
-   "audience": 155,
    "lineups": {
     "our": {
      "start": [
@@ -5869,6 +5868,7 @@
      }
     ]
    },
+   "audience": 155,
    "detail": true
   },
   {
@@ -6218,7 +6218,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/952254",
    "half": "0:6",
    "referee": "Lukáš Števčík",
-   "audience": 100,
    "lineups": {
     "our": {
      "start": [
@@ -6503,6 +6502,7 @@
      }
     ]
    },
+   "audience": 100,
    "detail": true
   },
   {
@@ -7057,7 +7057,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/952264",
    "half": "5:1",
    "referee": "Daniel Kukan",
-   "audience": 103,
    "lineups": {
     "our": {
      "start": [
@@ -7296,6 +7295,7 @@
      }
     ]
    },
+   "audience": 103,
    "detail": true
   },
   {
@@ -7952,7 +7952,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/952267",
    "half": "3:1",
    "referee": "Miloš Gašparovič",
-   "audience": 100,
    "lineups": {
     "our": {
      "start": [
@@ -8244,6 +8243,7 @@
      }
     ]
    },
+   "audience": 100,
    "detail": true
   },
   {
@@ -8398,7 +8398,6 @@
    "url": "https://sportnet.sme.sk/futbalnet/z/5/zapas/952279",
    "half": "2:1",
    "referee": "Viktor Tomka",
-   "audience": 120,
    "lineups": {
     "our": {
      "start": [
@@ -8684,6 +8683,7 @@
      }
     ]
    },
+   "audience": 120,
    "detail": true
   },
   {
