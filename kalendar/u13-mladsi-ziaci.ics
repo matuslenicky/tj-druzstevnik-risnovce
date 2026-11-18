@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:zapas-6a6fafcce904c78a514accf1@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20260904T170000
 DURATION:PT2H
 SUMMARY:U13: ŠK Magnus (futbal) – TJ Družstevník Rišňovce U13
@@ -32,7 +32,7 @@ DESCRIPTION:IV. liga mladších žiakov U13\, 1. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcee904c78a514ad4cd@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20260915T170000
 DURATION:PT2H
 SUMMARY:U13: FK Alekšince – TJ Družstevník Rišňovce U13 4:2
@@ -41,7 +41,7 @@ LOCATION:MFK Alekšince
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcde904c78a514ad04f@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20260924T170000
 DURATION:PT2H
 SUMMARY:U13: Obecný športový klub Lehota – TJ Družstevník Rišňovc
@@ -51,7 +51,7 @@ LOCATION:Futbalový štadión Lehota
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcde904c78a514ad022@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20260928T170000
 DURATION:PT2H
 SUMMARY:U13: TJ Družstevník Rišňovce U13 – LATUS 7:3
@@ -60,7 +60,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcde904c78a514ad03c@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20260930T170000
 DURATION:PT2H
 SUMMARY:U13: TJ Družstevník Rišňovce U13 – OFK Lužianky 2:4
@@ -69,7 +69,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcde904c78a514ad0f9@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20261007T170000
 DURATION:PT2H
 SUMMARY:U13: Futbalový klub FC 31 Jarok – TJ Družstevník Rišňovce U
@@ -79,7 +79,7 @@ LOCATION:Športový areál FC 31 Jarok
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcde904c78a514ad2d3@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20261015T170000
 DURATION:PT2H
 SUMMARY:U13: TJ Družstevník Rišňovce U13 – ŠK Veľké Zálužie 3:6
@@ -88,7 +88,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcee904c78a514ad485@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20261019T170000
 DURATION:PT2H
 SUMMARY:U13: TJ Družstevník Rišňovce U13 – FC Výčapy-Opatovce 2:5
@@ -97,7 +97,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcde904c78a514ad28a@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20261022T170000
 DURATION:PT2H
 SUMMARY:U13: TJ Nové Sady – TJ Družstevník Rišňovce U13 7:3
@@ -106,7 +106,7 @@ LOCATION:TJ Nové Sady
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcee904c78a514ad518@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20261031T140000
 DURATION:PT2H
 SUMMARY:U13: TJ Družstevník Rišňovce U13 – ŠK Báb 4:4
@@ -115,7 +115,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafd0e904c78a514ae06e@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20270408T170000
 DURATION:PT2H
 SUMMARY:U13: TJ Družstevník Rišňovce U13 – FK Alekšince
@@ -123,7 +123,7 @@ DESCRIPTION:IV. liga mladších žiakov U13\, 21. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcee904c78a514ad8ab@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20270415T170000
 DURATION:PT2H
 SUMMARY:U13: TJ Družstevník Rišňovce U13 – ŠK Magnus (futbal)
@@ -131,7 +131,7 @@ DESCRIPTION:IV. liga mladších žiakov U13\, 12. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcfe904c78a514ad9bd@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20270429T170000
 DURATION:PT2H
 SUMMARY:U13: LATUS – TJ Družstevník Rišňovce U13
@@ -139,7 +139,7 @@ DESCRIPTION:IV. liga mladších žiakov U13\, 14. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcee904c78a514ad8b9@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20270506T170000
 DURATION:PT2H
 SUMMARY:U13: TJ Družstevník Rišňovce U13 – Obecný športový klub L
@@ -148,7 +148,7 @@ DESCRIPTION:IV. liga mladších žiakov U13\, 15. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcee904c78a514ad8fb@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20270513T170000
 DURATION:PT2H
 SUMMARY:U13: OFK Lužianky – TJ Družstevník Rišňovce U13
@@ -156,7 +156,7 @@ DESCRIPTION:IV. liga mladších žiakov U13\, 16. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafd0e904c78a514ae011@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20270518T170000
 DURATION:PT2H
 SUMMARY:U13: ŠK Báb – TJ Družstevník Rišňovce U13
@@ -164,7 +164,7 @@ DESCRIPTION:IV. liga mladších žiakov U13\, 22. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcfe904c78a514adc15@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20270520T170000
 DURATION:PT2H
 SUMMARY:U13: TJ Družstevník Rišňovce U13 – Futbalový klub FC 31 Jar
@@ -173,7 +173,7 @@ DESCRIPTION:IV. liga mladších žiakov U13\, 17. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcfe904c78a514adc16@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20270527T170000
 DURATION:PT2H
 SUMMARY:U13: ŠK Veľké Zálužie – TJ Družstevník Rišňovce U13
@@ -181,7 +181,7 @@ DESCRIPTION:IV. liga mladších žiakov U13\, 18. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcfe904c78a514add17@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20270603T170000
 DURATION:PT2H
 SUMMARY:U13: TJ Družstevník Rišňovce U13 – TJ Nové Sady
@@ -189,7 +189,7 @@ DESCRIPTION:IV. liga mladších žiakov U13\, 19. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6fafcfe904c78a514ade8e@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261118T004637Z
+DTSTAMP:20261118T113814Z
 DTSTART;TZID=Europe/Bratislava:20270610T170000
 DURATION:PT2H
 SUMMARY:U13: FC Výčapy-Opatovce – TJ Družstevník Rišňovce U13
