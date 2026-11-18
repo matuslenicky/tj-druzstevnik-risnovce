@@ -21,7 +21,6 @@ add('', {
     const past = homeRes(5);
     const wl = winterLine();
     return `<section class="intro"><div class="wrap intro-in">
-  <img src="${R}img/erb-240.webp" alt="${esc(club.erbAlt)}" width="${Math.round(96 * CREST_R)}" height="96">
   <div>
     <h1 class="h1">TJ Družstevník Rišňovce</h1>
     <p class="intro-p">${esc(A.leagueName)}${A.pos ? `, ${A.pos}. miesto ${zo(A.of)}` : ''}. Víťaz VII. ligy ObFZ Nitra 2024/25, futbal v obci od roku ${club.zalozenie}.</p>
@@ -31,7 +30,7 @@ add('', {
   <div class="stream" aria-label="Zápasy okolo dneška">
     <h2 class="h2">Zápasy okolo dneška</h2>
     ${fut.length ? `<p class="stream-k">Najbližšie</p>${fxList(fut, R)}` : ''}
-    <p class="today"><span>Dnes, ${dShort(TODAY)}</span>${wl ? ` ${wl}` : ''}</p>
+    <p class="today"><span>Dnes, ${dShort(TODAY)}</span>${wl ? ' Zimná prestávka.' : ''}</p>
     <p class="stream-k">Posledné výsledky</p>${fxList(past, R)}
     ${more(`${R}zapasy/`, 'Všetky zápasy')}
   </div>

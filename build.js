@@ -172,8 +172,8 @@ const homePick = (list, n) => {
   const rest = cand.filter((m) => !a.includes(m)).slice(0, n - a.length);
   return cand.filter((m) => a.includes(m) || rest.includes(m)); // áčko má prednosť, poradie zoznamu ostáva
 };
-const homeUp = (n = 5) => homePick(upcoming, n);
-const homeRes = (n = 5) => homePick(results.filter((x) => x.score), n);
+const homeUp = (n = 5, skip = []) => homePick(upcoming.filter((m) => ![].concat(skip).includes(m)), n); // skip: zápas, ktorý už úvod zvýrazňuje
+const homeRes = (n = 5, skip = []) => homePick(results.filter((x) => x.score && ![].concat(skip).includes(x)), n);
 const MON3 = ['jan', 'feb', 'mar', 'apr', 'máj', 'jún', 'júl', 'aug', 'sep', 'okt', 'nov', 'dec'];
 
 // ---- kostra stránky ------------------------------------------------------------------------------
@@ -189,7 +189,7 @@ function layout({ route, title, desc, body, active, bodyClass = '' }) {
   const ld = route ? '' : `<script type="application/ld+json">${JSON.stringify({
     '@context': 'https://schema.org', '@type': 'SportsClub', name: club.nazov, sport: 'Futbal', ...(club.zalozenie ? { foundingDate: String(club.zalozenie) } : {}),
     email: club.kontakt.email,
-    address: { '@type': 'PostalAddress', streetAddress: club.adresa[0], postalCode: club.adresa[1].slice(0, 6), addressLocality: club.mesto, addressCountry: 'SK' },
+    address: { '@type': 'PostalAddress', ...(club.adresa.length > 1 ? { streetAddress: club.adresa[0] } : {}), postalCode: (club.adresa.at(-1).match(/^\d{3} ?\d{2}/) || [''])[0], addressLocality: club.mesto, addressCountry: 'SK' },
     location: { '@type': 'StadiumOrArena', name: ST.nazov, geo: { '@type': 'GeoCoordinates', latitude: ST.geo[0], longitude: ST.geo[1] } },
     sameAs: [club.sportnetUrl, club.kontakt.facebook].filter(Boolean),
   }).replace(/</g, '\\u003c')}</script>`;
@@ -505,7 +505,6 @@ add('', {
     const past = homeRes(5);
     const wl = winterLine();
     return `<section class="intro"><div class="wrap intro-in">
-  <img src="${R}img/erb-240.webp" alt="${esc(club.erbAlt)}" width="${Math.round(96 * CREST_R)}" height="96">
   <div>
     <h1 class="h1">TJ Družstevník Rišňovce</h1>
     <p class="intro-p">${esc(A.leagueName)}${A.pos ? `, ${A.pos}. miesto ${zo(A.of)}` : ''}. Víťaz VII. ligy ObFZ Nitra 2024/25, futbal v obci od roku ${club.zalozenie}.</p>
@@ -515,7 +514,7 @@ add('', {
   <div class="stream" aria-label="Zápasy okolo dneška">
     <h2 class="h2">Zápasy okolo dneška</h2>
     ${fut.length ? `<p class="stream-k">Najbližšie</p>${fxList(fut, R)}` : ''}
-    <p class="today"><span>Dnes, ${dShort(TODAY)}</span>${wl ? ` ${wl}` : ''}</p>
+    <p class="today"><span>Dnes, ${dShort(TODAY)}</span>${wl ? ' Zimná prestávka.' : ''}</p>
     <p class="stream-k">Posledné výsledky</p>${fxList(past, R)}
     ${more(`${R}zapasy/`, 'Všetky zápasy')}
   </div>
