@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:zapas-6a40bd1ce5a4847e62e599af@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20260725T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – ŠK Nitra-Dolné Kršk
@@ -34,7 +34,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea331d14e91f303427d17@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20260809T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – ŠK Nevidzany 1:2
@@ -43,7 +43,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea331d14e91f303427d4f@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20260816T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – FC MOSAP Klasov 0:7
@@ -52,7 +52,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea331d14e91f303427e17@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20260822T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: OŠK Kolíňany – TJ Družstevník Rišňovce 8:1
@@ -61,7 +61,7 @@ LOCATION:Štadión Kolíňany
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea331d14e91f303427e0b@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20260830T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – ŠK Nitra-Dolné Kršk
@@ -71,7 +71,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea331d14e91f303427deb@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20260906T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FC Výčapy-Opatovce – TJ Družstevník Rišňovce 4
@@ -81,7 +81,7 @@ LOCATION:Štadión Výčapy Opatovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea340d14e91f30342a280@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20260913T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – TJ Štart Nitrianske H
@@ -91,7 +91,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea332d14e91f3034280ee@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20260919T153000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FC ViOn Zlaté Moravce - Vráble C – TJ Družstevní
@@ -100,7 +100,7 @@ DESCRIPTION:VI. liga Stred\, 7. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea332d14e91f303428117@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20260926T153000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – ŠK Žitavany 2:1
@@ -109,7 +109,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea332d14e91f30342828c@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20261004T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Veľký Cetín – TJ Družstevník Rišňovce 5:1
@@ -118,7 +118,7 @@ LOCATION:Štadión FK Veľký Cetín
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea332d14e91f303428440@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20261011T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – ŠK Veľké Zálužie 
@@ -128,7 +128,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea332d14e91f3034283b2@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20261017T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Nitra-Chrenová – TJ Družstevník Rišňo
@@ -138,7 +138,7 @@ LOCATION:TJ Slovan Nitra - Chrenová
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea332d14e91f30342834b@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20261025T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – TJ Slovan Čeľadice 3
@@ -148,7 +148,7 @@ LOCATION:Štadión TJ Rišňovce
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea333d14e91f303428548@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20261101T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Zbehy – TJ Družstevník Rišňovce 4:2
@@ -157,7 +157,7 @@ LOCATION:TJ Slovan Zbehy
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea333d14e91f30342858d@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270321T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: ŠK Nevidzany – TJ Družstevník Rišňovce
@@ -165,7 +165,7 @@ DESCRIPTION:VI. liga Stred\, 14. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea333d14e91f303428731@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270328T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FC MOSAP Klasov – TJ Družstevník Rišňovce
@@ -173,7 +173,7 @@ DESCRIPTION:VI. liga Stred\, 15. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea333d14e91f303428792@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270404T153000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – OŠK Kolíňany
@@ -181,7 +181,7 @@ DESCRIPTION:VI. liga Stred\, 16. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea333d14e91f3034288ea@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270411T153000
 DURATION:PT2H
 SUMMARY:A-mužstvo: ŠK Nitra-Dolné Krškany – TJ Družstevník Rišňo
@@ -190,7 +190,7 @@ DESCRIPTION:VI. liga Stred\, 17. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea333d14e91f30342892a@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270418T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – FC Výčapy-Opatovce
@@ -198,7 +198,7 @@ DESCRIPTION:VI. liga Stred\, 18. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea334d14e91f303428ad8@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270425T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Štart Nitrianske Hrnčiarovce – TJ Družstevník
@@ -207,7 +207,7 @@ DESCRIPTION:VI. liga Stred\, 19. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea334d14e91f303428adf@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270502T163000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – FC ViOn Zlaté Moravce
@@ -216,7 +216,7 @@ DESCRIPTION:VI. liga Stred\, 20. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea334d14e91f303428cec@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270509T163000
 DURATION:PT2H
 SUMMARY:A-mužstvo: ŠK Žitavany – TJ Družstevník Rišňovce
@@ -224,7 +224,7 @@ DESCRIPTION:VI. liga Stred\, 21. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea342d14e91f30342a6a6@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270516T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – FK Veľký Cetín
@@ -232,7 +232,7 @@ DESCRIPTION:VI. liga Stred\, 22. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea334d14e91f303428da6@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270523T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: ŠK Veľké Zálužie – TJ Družstevník Rišňovce
@@ -240,7 +240,7 @@ DESCRIPTION:VI. liga Stred\, 23. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea334d14e91f303428e92@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270530T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – TJ Slovan Nitra-Chreno
@@ -249,7 +249,7 @@ DESCRIPTION:VI. liga Stred\, 24. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea334d14e91f303428e89@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270606T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Čeľadice – TJ Družstevník Rišňovce
@@ -257,7 +257,7 @@ DESCRIPTION:VI. liga Stred\, 25. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a4ea335d14e91f303428ff1@tj-druzstevnik-risnovce.sportnet
-DTSTAMP:20261123T123252Z
+DTSTAMP:20261124T134017Z
 DTSTART;TZID=Europe/Bratislava:20270613T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Rišňovce – TJ Slovan Zbehy
